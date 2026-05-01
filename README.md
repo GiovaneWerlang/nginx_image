@@ -4,6 +4,11 @@ This project was generated using [Angular CLI](https://github.com/angular/angula
 
 ## Development server
 
+To build and run in a docker environment, use:
+
+```bash
+docker-compose up --build
+```
 To start a local development server, run:
 
 ```bash
